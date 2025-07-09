@@ -1,2 +1,2 @@
-El repositorio consta de un Jupyter Notebook con el código de construcción de una red neuronal UNet para la reconstrucción de gathers sísmicos.
-Los datos de entrada corresponden al SEAM Phase I: Interpretation challenge I - Depth, los cuales pueden descargarse de esta ruta: https://wiki.seg.org/wiki/SEAM_Phase_I:_Interpretation_challenge_I_-_Depth
+El repositorio consta de un Jupyter Notebook con el código de construcción de una red neuronal UNet para la reconstrucción de gathers sísmicos con submuestreo de trazas.
+Los datos de entrada corresponden a los shot gathers 2D crudos de Utah FORGE, los cuales pueden descargarse de esta ruta: https://gdr.openei.org/submissions/1015 el archivo 2D_seismic_data.zip
